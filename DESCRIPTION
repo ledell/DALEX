@@ -22,12 +22,12 @@ Imports: pdp,
     ALEPlot,
     breakDown,
     factorMerger,
-    ggpubr,
-    h2o
+    ggpubr
 Suggests: gbm,
   randomForest,
   xgboost,
   testthat,
-  dplyr
+  dplyr,
+  h2o
 URL: https://pbiecek.github.io/DALEX/
 BugReports: https://github.com/pbiecek/DALEX/issues
